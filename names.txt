@@ -1,0 +1,400 @@
+  600 cm-1 Trichlorosilane
+  601 cm-1 Benzene-D6
+  603 cm-1 Furan
+  603 cm-1 Ethene, 1,1-dichloro-
+  606 cm-1 Benzene
+  607 cm-1 calcium dihydroxide
+  607 cm-1 Acetic acid, methyl ester
+  608 cm-1 Thiophene
+  610 cm-1 1,4-Dioxane
+  611 cm-1 Methane, bromo-
+  612 cm-1 Acetylene
+  613 cm-1 Furan
+  614 cm-1 Methane, bromochloro-
+  619 cm-1 Ethane, hexafluoro-
+  621 cm-1 Silicon tetrachloride
+  621 cm-1 1-Propyne, 3-bromo-
+  622 cm-1 Ethene, 1,1-dichloro-2,2-difluoro-
+  625 cm-1 Formic acid
+  626 cm-1 Carbonic difluoride
+  630 cm-1 Ethane, 1-bromo-2-chloro-
+  632 cm-1 Tetrafluoromethane
+  633 cm-1 Propyne
+  635 cm-1 Ethene, tetrabromo-
+  637 cm-1 1-Propyne, 3-bromo-
+  638 cm-1 Formic acid
+  639 cm-1 Acetic acid, methyl ester
+  640 cm-1 1-Propyne, 3-iodo-
+  642 cm-1 Acetic acid
+  647 cm-1 Nitric acid
+  647 cm-1 Nitrogen trifluoride
+  650 cm-1 Indian red oxide
+  652 cm-1 1-Propyne, 3-bromo-
+  653 cm-1 Methane, dibromo-
+  655 cm-1 Methyl Alcohol
+  657 cm-1 Nitric acid
+  657 cm-1 Thiirane
+  657 cm-1 Acetic acid
+  660 cm-1 Ethane, 1,2-dibromo-
+  662 cm-1 Benzene-D6
+  664 cm-1 Ethane, 1-bromo-2-chloro-
+  664 cm-1 Nitric acid
+  666 cm-1 Boric acid
+  667 cm-1 Dichlorodifluoromethane
+  669 cm-1 Ethane, 1,2-dichloro-
+  669 cm-1 Methane, tribromo-
+  672 cm-1 Carbon tetrabromide
+  673 cm-1 Benzene
+  675 cm-1 Boric acid
+  675 cm-1 Ethane, hexachloro-
+  677 cm-1 Ethyl Chloride
+  680 cm-1 Phenol,2,3,4-trifluoro-
+  680 cm-1 Trichloromethane
+  686 cm-1 Ethene, 1,1-dichloro-
+  688 cm-1 Thiophene
+  693 cm-1 Ethane, 1,2-dichloro-
+  697 cm-1 Ethylene, 1,2-dichloro-, (Z)-
+  700 cm-1 Fluoroform
+  700 cm-1 Silane, methyl-
+  703 cm-1 Benzene
+  711 cm-1 Ethylene, 1,2-dichloro-, (Z)-
+  712 cm-1 Thiophene
+  712 cm-1 Hydrogen cyanide
+  714 cm-1 Ethane, hexafluoro-
+  716 cm-1 Methane, bromotrichloro-
+  717 cm-1 Methylene chloride
+  725 cm-1 2-Butyne
+  726 cm-1 Ethane, 1-bromo-2-chloro-
+  728 cm-1 Ethane, 1,2-dichloro-
+  728 cm-1 Furan
+  730 cm-1 Acetylene
+  731 cm-1 Butane
+  732 cm-1 Chloromethane
+  739 cm-1 Cyclopropane
+  743 cm-1 Methane, tribromofluoro-
+  744 cm-1 Methane, bromochloro-
+  745 cm-1 Furan
+  747 cm-1 Butane
+  748 cm-1 Propane
+  751 cm-1 Thiophene
+  753 cm-1 Ethane, 1,2-dibromo-
+  754 cm-1 Ethane, 1,2-dichloro-
+  758 cm-1 Methylene chloride
+  760 cm-1 Bromotrifluoromethane
+  760 cm-1 2-Butanone
+  763 cm-1 Ethane, 1-bromo-2-chloro-
+  763 cm-1 Ethylene, 1,2-dichloro-, (E)-
+  763 cm-1 Acetaldehyde
+  763 cm-1 Nitric acid
+  764 cm-1 Nitric acid
+  766 cm-1 Ethene, tetrabromo-
+  767 cm-1 Methyl formate
+  767 cm-1 Thiophosphoryl chloride
+  768 cm-1 Nitric acid
+  768 cm-1 2-Butanone
+  770 cm-1 1,3-Butadiene
+  770 cm-1 Ethyl bromide
+  773 cm-1 Ethane, 1,2-dichloro-
+  773 cm-1 Ethylenimine
+  774 cm-1 Carbonic difluoride
+  774 cm-1 Trichloromethane
+  775 cm-1 Thiazyl trifluoride
+  775 cm-1 Methane, bromotrichloro-
+  776 cm-1 Carbon Tetrachloride
+  777 cm-1 Tetrachloroethylene
+  777 cm-1 Acetone
+  778 cm-1 Ethene, tetrafluoro-
+  778 cm-1 Ethane, hexachloro-
+  780 cm-1 Methylamine
+  781 cm-1 Chlorotrifluoromethane
+  785 cm-1 Cyclohexane
+  786 cm-1 Propanenitrile
+  786 cm-1 Ethyl Chloride
+  788 cm-1 Butane
+  795 cm-1 Benzene-D6
+  800 cm-1 Ethene, 1,1-dichloro-
+  800 cm-1 Silicon tetrafluoride
+  801 cm-1 Glyoxal
+  801 cm-1 1-Propene, 2-methyl-
+  802 cm-1 Cyclohexane
+  803 cm-1 Butane
+  807 cm-1 Ethane, hexafluoro-
+  810 cm-1 Indian red oxide
+  810 cm-1 1-Propyne, 3-iodo-
+  811 cm-1 Trichlorosilane
+  811 cm-1 Thiazyl trifluoride
+  812 cm-1 Methane, dibromo-
+  814 cm-1 Benzene-D6
+  817 cm-1 Ethylenimine
+  819 cm-1 Germane
+  822 cm-1 Ethane
+  822 cm-1 Ethylene oxide
+  824 cm-1 Benzene-D6
+  826 cm-1 Titanium dioxide (anatase)
+  826 cm-1 Ethylene
+  827 cm-1 Butane
+  827 cm-1 Benzene-D6
+  828 cm-1 Ethylene, 1,2-dichloro-, (E)-
+  834 cm-1 Magnesium fluoride
+  836 cm-1 Ethane, 1,2-dibromo-
+  836 cm-1 Propanenitrile
+  837 cm-1 Butane
+  837 cm-1 1,4-Dioxane
+  838 cm-1 Furan
+  839 cm-1 Thiophene
+  840 cm-1 Magnesium fluoride
+  841 cm-1 Allene
+  844 cm-1 Acetic acid, methyl ester
+  846 cm-1 Ethylene, 1,2-dichloro-, (E)-
+  846 cm-1 Cyanogen
+  847 cm-1 Acetic acid
+  847 cm-1 Trichloromonofluoromethane
+  848 cm-1 Sulfuryl fluoride
+  849 cm-1 Benzene
+  849 cm-1 Phosgene
+  850 cm-1 Titanium dioxide (anatase)
+  852 cm-1 Methane, bromochloro-
+  853 cm-1 1,4-Dioxane
+  854 cm-1 Cyclopropane
+  856 cm-1 Ethane, 1-bromo-2-chloro-
+  856 cm-1 Ethylenimine
+  857 cm-1 Ethylene, 1,2-dichloro-, (Z)-
+  859 cm-1 Ethane, hexachloro-
+  860 cm-1 Ethylene oxide
+  862 cm-1 Magnesium fluoride
+  863 cm-1 Furan
+  863 cm-1 Cyclohexane
+  863 cm-1 Stannic oxide
+  865 cm-1 Allene
+  866 cm-1 Hydrogen peroxide
+  866 cm-1 Boric acid
+  866 cm-1 1-Propyne, 3-bromo-
+  866 cm-1 Cyclopropane
+  867 cm-1 Benzene-D6
+  867 cm-1 Thiophene
+  867 cm-1 Acetaldehyde
+  868 cm-1 Silane, methyl-
+  869 cm-1 Propane
+  869 cm-1 Hydrogen peroxide
+  871 cm-1 Furan
+  872 cm-1 Thiophene
+  873 cm-1 Furan
+  874 cm-1 Titanium dioxide (anatase)
+  875 cm-1 Ethene, 1,1-dichloro-
+  876 cm-1 Ethylene, 1,2-dichloro-, (Z)-
+  877 cm-1 Acetone
+  877 cm-1 Ethylene oxide
+  878 cm-1 Stannic oxide
+  878 cm-1 Hydrogen peroxide
+  879 cm-1 Nitric acid
+  880 cm-1 Ethene, tetrabromo-
+  881 cm-1 1,4-Dioxane
+  882 cm-1 Methane, iodo-
+  883 cm-1 Methane, isocyanato-
+  885 cm-1 Sulfuryl fluoride
+  889 cm-1 1,4-Dioxane
+  890 cm-1 Nitric acid
+  890 cm-1 Ethane, 1,2-dichloro-
+  890 cm-1 Propanedinitrile
+  890 cm-1 1-Propene, 2-methyl-
+  891 cm-1 Acetone
+  892 cm-1 Ethylene oxide
+  894 cm-1 1,3-Butadiene
+  897 cm-1 Nitric acid
+  898 cm-1 Ethane, 1,2-dibromo-
+  898 cm-1 Methylene chloride
+  900 cm-1 Ethylene, 1,2-dichloro-, (E)-
+  902 cm-1 Dichlorodifluoromethane
+  903 cm-1 Thiophene
+  903 cm-1 Nitric acid
+  904 cm-1 Ethylenimine
+  907 cm-1 Cyclohexane
+  907 cm-1 Nitrogen trifluoride
+  908 cm-1 1,3-Butadiene
+  908 cm-1 Tetrachloroethylene
+  909 cm-1 Tetrafluoromethane
+  910 cm-1 Thiirane
+  912 cm-1 1,3-Butadiene
+  912 cm-1 2-Propenal
+  912 cm-1 Thiirane
+  917 cm-1 Titanium dioxide (anatase)
+  919 cm-1 Acetaldehyde
+  920 cm-1 Acetonitrile
+  922 cm-1 Propane
+  923 cm-1 Ethane, 1-bromo-2-chloro-
+  925 cm-1 Methyl formate
+  928 cm-1 Dimethyl ether
+  931 cm-1 Propyne
+  931 cm-1 Germane
+  933 cm-1 Ethane, 1,2-dibromo-
+  933 cm-1 Propanedinitrile
+  935 cm-1 Titanium dioxide (anatase)
+  939 cm-1 2-Butanone
+  940 cm-1 Propane
+  940 cm-1 Silane, methyl-
+  943 cm-1 Benzene-D6
+  943 cm-1 Ethylene
+  944 cm-1 Titanium dioxide (anatase)
+  947 cm-1 Titanium dioxide (anatase)
+  948 cm-1 Butane
+  948 cm-1 Ethane, 1,2-dichloro-
+  949 cm-1 Ethylene
+  950 cm-1 Ammonia
+  952 cm-1 2-Butanone
+  955 cm-1 Butane
+  955 cm-1 Methane, bromo-
+  959 cm-1 2-Propenal
+  959 cm-1 Titanium dioxide (anatase)
+  959 cm-1 1-Propyne, 3-iodo-
+  961 cm-1 1-Propyne, 3-bromo-
+  961 cm-1 Ethane, 1-bromo-2-chloro-
+  962 cm-1 Titanium dioxide (anatase)
+  964 cm-1 Butane
+  964 cm-1 Ethyl bromide
+  965 cm-1 Carbonic difluoride
+  969 cm-1 Benzene-D6
+  974 cm-1 1-Propene, 2-methyl-
+  974 cm-1 Ethyl Chloride
+  975 cm-1 Ethane, hexachloro-
+  975 cm-1 Benzene
+  976 cm-1 1,3-Butadiene
+  980 cm-1 Butane
+  980 cm-1 2-Propenal
+  980 cm-1 Acetic acid, methyl ester
+  980 cm-1 Silane, methyl-
+  981 cm-1 1-Propene, 2-methyl-
+  982 cm-1 Propanedinitrile
+  989 cm-1 Ethane, 1,2-dichloro-
+  989 cm-1 Acetic acid
+  989 cm-1 Ethene, 1,1-dichloro-2,2-difluoro-
+  990 cm-1 1,3-Butadiene
+  992 cm-1 Benzene
+  992 cm-1 Phosphine
+  992 cm-1 Boric acid
+  993 cm-1 2-Propenal
+  995 cm-1 Furan
+  995 cm-1 Benzene
+  995 cm-1 Ethane
+  997 cm-1 2-Butanone
+  998 cm-1 Ethylenimine
+  999 cm-1 Allene
+  1000 cm-1 Tetrachloroethylene
+  1005 cm-1 Propanenitrile
+  1009 cm-1 Butane
+  1010 cm-1 Boric acid
+  1010 cm-1 Benzene
+  1013 cm-1 1,3-Butadiene
+  1015 cm-1 1,4-Dioxane
+  1017 cm-1 Boric acid
+  1017 cm-1 Chloromethane
+  1019 cm-1 Ethane, 1,2-dibromo-
+  1020 cm-1 Boric acid
+  1022 cm-1 Propanenitrile
+  1023 cm-1 Ethylene
+  1025 cm-1 Ethane, 1-bromo-2-chloro-
+  1027 cm-1 Ethane, 1,2-dichloro-
+  1027 cm-1 Cyclohexane
+  1029 cm-1 2-Butyne
+  1029 cm-1 Cyclopropane
+  1030 cm-1 Cyclohexane
+  1030 cm-1 Methyl Alcohol
+  1032 cm-1 Methyl formate
+  1032 cm-1 Nitrogen trifluoride
+  1032 cm-1 Silicon tetrafluoride
+  1032 cm-1 Ethene, 1,1-dichloro-2,2-difluoro-
+  1033 cm-1 Formic acid
+  1033 cm-1 Methyl Alcohol
+  1036 cm-1 Thiophene
+  1036 cm-1 Acetic acid, methyl ester
+  1037 cm-1 Benzene-D6
+  1038 cm-1 Benzene
+  1040 cm-1 Furan
+  1041 cm-1 Acetonitrile
+  1043 cm-1 1-Propene, 2-methyl-
+  1044 cm-1 Methylamine
+  1048 cm-1 Glyoxal
+  1048 cm-1 Acetic acid
+  1049 cm-1 Methyl fluoride
+  1052 cm-1 Ethane, 1-bromo-2-chloro-
+  1052 cm-1 Ethane, 1,2-dichloro-
+  1052 cm-1 1,4-Dioxane
+  1053 cm-1 Ethane, 1,2-dibromo-
+  1053 cm-1 Propyne
+  1054 cm-1 2-Butyne
+  1054 cm-1 Propane
+  1057 cm-1 Cyclohexane
+  1059 cm-1 Butane
+  1060 cm-1 Methyl Alcohol
+  1060 cm-1 Acetic acid, methyl ester
+  1061 cm-1 Ethyl bromide
+  1064 cm-1 1-Propene, 2-methyl-
+  1065 cm-1 Glyoxal
+  1066 cm-1 Furan
+  1066 cm-1 Acetone
+  1069 cm-1 Methane, tribromofluoro-
+  1070 cm-1 Cyclopropane
+  1073 cm-1 Allene
+  1076 cm-1 1-Propene, 2-methyl-
+  1077 cm-1 Butane
+  1077 cm-1 Propanenitrile
+  1079 cm-1 1-Propene, 2-methyl-
+  1081 cm-1 Ethyl Chloride
+  1083 cm-1 Thiophene
+  1085 cm-1 Thiophene
+  1085 cm-1 Trichloromonofluoromethane
+  1086 cm-1 1,4-Dioxane
+  1087 cm-1 Ethane, 1,2-dibromo-
+  1089 cm-1 Bromotrifluoromethane
+  1089 cm-1 2-Butanone
+  1090 cm-1 Cyclohexane
+  1090 cm-1 Ethylenimine
+  1091 cm-1 Acetone
+  1095 cm-1 Ethylenimine
+  1095 cm-1 Methane, dibromo-
+  1095 cm-1 Ethene, 1,1-dichloro-
+  1101 cm-1 Dichlorodifluoromethane
+  1102 cm-1 Dimethyl ether
+  1104 cm-1 Ethane, 1,2-dibromo-
+  1105 cm-1 Formic acid
+  1105 cm-1 Chlorotrifluoromethane
+  1108 cm-1 2-Butanone
+  1110 cm-1 1,4-Dioxane
+  1111 cm-1 Ethane, 1-bromo-2-chloro-
+  1112 cm-1 Methane, isocyanato-
+  1113 cm-1 Acetaldehyde
+  1115 cm-1 Methyl Alcohol
+  1116 cm-1 1-Propyne, 3-iodo-
+  1117 cm-1 Fluoroform
+  1117 cm-1 Ethane, hexafluoro-
+  1118 cm-1 Phosphine
+  1120 cm-1 Ethylene oxide
+  1123 cm-1 Ethane, 1,2-dichloro-
+  1126 cm-1 Cyclopropane
+  1127 cm-1 Ethane, 1-bromo-2-chloro-
+  1128 cm-1 1,4-Dioxane
+  1128 cm-1 Methane, bromochloro-
+  1130 cm-1 Methylamine
+  1131 cm-1 Ethylenimine
+  1133 cm-1 Butane
+  1136 cm-1 1,4-Dioxane
+  1140 cm-1 Furan
+  1142 cm-1 Ethylene oxide
+  1146 cm-1 Ethane, 1,2-dichloro-
+  1149 cm-1 Methane, tribromo-
+  1150 cm-1 Dimethyl ether
+  1150 cm-1 Benzene
+  1151 cm-1 Butane
+  1151 cm-1 Ethylene oxide
+  1152 cm-1 1-Propyne, 3-bromo-
+  1152 cm-1 2-Butyne
+  1152 cm-1 Fluoroform
+  1153 cm-1 Methylene chloride
+  1157 cm-1 Cyclohexane
+  1158 cm-1 2-Propenal
+  1158 cm-1 Propane
+  1159 cm-1 Dichlorodifluoromethane
+  1159 cm-1 Acetic acid, methyl ester
+  1160 cm-1 1-Propyne, 3-iodo-
+  1165 cm-1 Methyl Alcohol
+  1166 cm-1 Methyl formate
+  1167 cm-1 Formaldehyde
